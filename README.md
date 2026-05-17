@@ -17,4 +17,4 @@ ReconWolf is a Python-based web reconnaissance utility designed for directory an
 
 ## Installation
 ```bash
-pip install requests colorama
+pip install -r requirements.txt
